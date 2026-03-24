@@ -2,6 +2,7 @@
 
 **Card payment infrastructure explained for developers.**
 
+
 A single-file, open-source reference covering everything a developer needs to know about how card payments actually work — from the physical tap to settlement, authentication, tokenisation, fraud, chargebacks, and compliance.
 
 🔗 **Live site:** [thierry0303.github.io/paydev-docs](https://thierry0303.github.io/paydev-docs)
